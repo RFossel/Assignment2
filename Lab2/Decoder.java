@@ -1,6 +1,6 @@
 /*
-Raul Fosselman
-cs 310
+Rfossel
+CS 310
 Lab 2 Software decode
 10/22/2019
  */
