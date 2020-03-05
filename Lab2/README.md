@@ -1,4 +1,4 @@
-# LAB 2 MILES SOFTWARE DECODE
+# MILES SOFTWARE DECODE - LAB 2 
 
 ## Assignment Description
 #### TLDR 
